@@ -1,0 +1,21 @@
+h1 { color:#7759e2; font-weight: bold;}
+
+
+p1 {color:green; font-weight: bold;font-size: 12
+
+}
+ div {border: 3px Solid blue; background-color: teal; width: 300px; height: 115px;
+   margin: 20px;
+   font-family: Arial;}
+
+table {border-collapse: collapse;}
+th, td {border: 1px Solid black; padding: 2px; text-align: center}
+img {border: 2px Solid black}
+
+th {background-color: orange}
+
+
+#top { font-family: sans-serif; color: darkblue; font-size: 20}
+#middle { font-family: sans-serif; color: darkgreen; font-size: 22}
+#bottom { font-family: sans-serif; color: darkred; font-size: 24}
+.name {font-weight: bold}
